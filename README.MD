@@ -46,3 +46,58 @@ aqui podemos usar *formato italico*, pero tambien **bold** y ~~tachado~~
 # Imagenes
 
 ![Logo Github](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
+
+# Code Snippets
+
+Codigo en JSON
+
+```JSON
+[
+    {
+         "title": "apples",
+         "count": [12000,20000],
+         "description": {"text:"...,"sensitive:" false}
+    },
+    {
+        "title": "orange",
+        "count":[17500, null ],
+        "descrition": {"text":..., "sensitive": false}
+    }
+]
+```
+Codigo JavaScript
+```JavaScript
+function $initHihglight(block, cls){
+    try{
+        if(cls.search(/\bno\-highlight\b/)!= -1)
+        return process(block, true, 0x0F) +
+             ` class="${cls}"`;
+
+    }catch (e){
+        /* handle exception */
+
+    }
+    for(var i = 0 / 2; i < classes.length; i++)
+     {
+         if (checkCondition (classes[i])=== undefined)
+         console.log('undefined');
+
+    }
+    return(
+        
+    
+
+        <div>
+<web-component>{block}</web-componet>
+        </div>
+
+    )
+}
+export $initHighlight;
+```
+
+# Tablas
+  | Nombre | Apellido | Documento |
+  |--------|----------|-----------|
+  |Jairo   | Vilorio  | 213013445 |
+  |Dari    | Santana  | 234313434 |
