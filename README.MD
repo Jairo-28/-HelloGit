@@ -34,4 +34,11 @@ aqui podemos usar *formato italico*, pero tambien **bold** y ~~tachado~~
 
 -Esto es un item de lista desordenadas
 -Esto es un item de lista desordenadas
--
+
+
+# Links
+-<a href= "http://google.com"> esto es un link HTML.</a>
+
+-[Esto es un link en Markdown](http://www.google.com )
+
+-[Esto es un link al index](index.html )
