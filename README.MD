@@ -101,3 +101,34 @@ export $initHighlight;
   |--------|----------|-----------|
   |Jairo   | Vilorio  | 213013445 |
   |Dari    | Santana  | 234313434 |
+
+  # Citas
+  Esto es un texto referente a una cita que pondremos debajo.
+  >Esto es una cita
+
+  Esto es otro tema que no se relaciona
+  >Esto es otra cita.
+
+  # Lineas Divisoras
+
+  
+  Esto es un texto que sera dividido por guiones
+
+  ---
+
+  Esto es otro texto dividido por asteriscos 
+  
+  ***
+
+  Esto es otro texto dividido por undercore
+
+  ___
+
+  # Saltos de lineas
+
+  Esto es el primer parrafo.
+
+  Esto es el Segundo parrafo.
+
+  Esto es el Tercero parrafo.
+  -lista
